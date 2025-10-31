@@ -1,0 +1,14 @@
+﻿# Python / env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data.db
+.DS_Store
+
+# Node / frontend
+node_modules/
+dist/
+.env.local
